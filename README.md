@@ -19,5 +19,5 @@ mvn clean install
 # Deploy the project
 mvn spring-boot:run
 
-# check database conle
+# check database console
 http://localhost:8081/h2-console
