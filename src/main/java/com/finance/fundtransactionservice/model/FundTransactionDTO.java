@@ -17,7 +17,7 @@ public class FundTransactionDTO {
 	@NotBlank
 	private String accountId;
 	private Double amount;
-	private Instant createdDate;
-	private Instant updatedDate;
+//	private Instant createdDate;
+//	private Instant updatedDate;
 
 }
